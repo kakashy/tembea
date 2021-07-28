@@ -49,6 +49,7 @@ export default {
 	  icon: {
 		  source: '/static/favicon.png',
 		  fileName: 'favicon.png'
+    }
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
