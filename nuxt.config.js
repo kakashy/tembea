@@ -46,10 +46,7 @@ export default {
       theme_color: '#FFD450',
       lang: 'en'
     },
-	  icon: {
-		  source: '/static/favicon.png',
-		  fileName: 'favicon.png'
-    }
+	icon: false,
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
