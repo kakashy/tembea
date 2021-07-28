@@ -45,7 +45,9 @@ export default {
       short_name: 'Tembea',
       theme_color: '#FFD450',
       lang: 'en'
-    }
+    },
+	  icon: {
+		  source: '/static/favicon.png',
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
