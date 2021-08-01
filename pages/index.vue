@@ -66,7 +66,7 @@
         "
       >
         <img
-          src="../static/amani-nation-LTh5pGyvKAM-unsplash.jpg"
+          src="../static/amani-nation-LTh5pGyvKAM-unsplash-min.jpg"
           alt="Nairobi"
           class="
             w-4/5

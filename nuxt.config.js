@@ -1,6 +1,6 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
-  target: 'server',
+	target: 'static',
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -9,6 +9,17 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: 'Tembea Kenya. We are a proud agency that offers customized travel packages within the country' },
+	    {
+	hid: 'twitter:title',
+		    name: 'twitter:title',
+		    content: 'Tembea Kenya!'
+	    },
+	    {
+	hid: 'twitter:url',
+		    name: 'twitter:url',
+		    content: 'https://tembea.vercel.app'
+	    },
+	{ hid: 'twitter:image', name: 'twitter:image', content: 'https://tembea.vercel.app/_nuxt/img/amani-nation-LTh5pGyvKAM-unsplash.b8f2c02.jpg'},
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
