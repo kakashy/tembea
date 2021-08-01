@@ -19,7 +19,7 @@ export default {
 		    name: 'twitter:url',
 		    content: 'https://tembea.vercel.app'
 	    },
-	{ hid: 'twitter:image', name: 'twitter:image', content: 'https://tembea.vercel.app/_nuxt/img/amani-nation-LTh5pGyvKAM-unsplash.b8f2c02.jpg'},
+	{ hid: 'twitter:image', name: 'twitter:image', content: './static/amani-nation-LTh5pGyvKAM-unsplash-min.jpg'},
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
